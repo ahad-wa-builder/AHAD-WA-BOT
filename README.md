@@ -70,7 +70,7 @@ Thanks to all contributors! 🚀
 
 ## 🛠️Deploying Working Methods`
 
-`ALL Deploy Methods Is coming Soon! you can try discord bot-hosting and replit for bot hosting`
+`ALL Deploy Methods Is coming Soon! you can try discord bot-hosting and replit for bot deploy`
 
 ## 🛠️ `Installation Methods`
 1. Fork the repo
