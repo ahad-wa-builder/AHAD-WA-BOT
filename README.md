@@ -95,17 +95,9 @@ Thanks to all contributors! 🚀
 <a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
-#### DEPLOY TO BOT-HOSTING
-
-. If You don't have a account in Codespace. Create a account.
-    <br>
-<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Bot-Hosting' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=bot-hosting.net' width="96.35" height="28"/></a></p>
-
-
 2. Now Deploy
     <br>
     <a href='https://repl.it/github/ahad-wa-builder/AHAD-WA-BOT' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
 
 
 #### DEPLOY TO CODESPACE
@@ -171,10 +163,13 @@ Thanks to all contributors! 🚀
 NOW Deploy👇
 <br>
 ## DEPLOY IN KOYEB    
-[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)
+
+## DEPLOY IN PANEL
+<a href="https://bot-hosting.net"><img src="https://bot-hosting.net/assets/img/bothosting2.png" width="250" height="250" alt="Bot-Hosting"/></a>
 
 ## 📛 `OWNER & Main Developer` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/ahad-wa-builder.png" width="250" height="250" alt="Ahad Mehmood"/></a>
+<a href="https://github.com/ahad-wa-builder"><img src="https://github.com/ahad-wa-builder.png" width="250" height="250" alt="Ahad Mehmood"/></a>
   
 **AHAD-V1** - By `ahadmehmood`
 <br>
