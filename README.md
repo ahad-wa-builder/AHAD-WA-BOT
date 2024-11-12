@@ -178,6 +178,7 @@ NOW Deploy👇
 `Development , Maintainence , Bot Updates`
 
 ## `WA Support`
+. Just Click On WA Logo to Redirect My WA Nbr
 <a href="https://wa.me/+923404812097/text?*I-Need-Help/*"><img src="https://static.whatsapp.net/rsrc.php/v3/yR/r/y8-PTBaP90a.png" width="980" height="180" alt="Contact WA"/></a>
 
 ## 🔒 `Reminder`
