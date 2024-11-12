@@ -70,7 +70,7 @@ Thanks to all contributors! 🚀
 
 ## 🛠️Deploying Working Methods`
 
-`ALL Deploy Methods Is coming Soon! you can try discord bot-hosting and replit on this time only few Deploy Methods Is Working first: dicsord bot-hosting and second replit`
+`ALL Deploy Methods Is coming Soon! you can try discord bot-hosting and replit for bot hosting`
 
 ## 🛠️ `Installation Methods`
 1. Fork the repo
@@ -93,6 +93,13 @@ Thanks to all contributors! 🚀
 1. If You don't have an account in Replit. Create a account.
     <br>
 <a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+
+#### DEPLOY TO BOT-HOSTING
+
+9. If You don't have a account in Mongenius. Create a account.
+    <br>
+<a href='https://bot-hosting.net' target="_blank"><img alt='Bot-Hosting' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
 
 2. Now Deploy
@@ -203,7 +210,7 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
   
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/<your gitHub Username>/AHAD-WA-BOTgit
+git clone https://github.com/<your gitHub Username>/AHAD-WA-BOT.git
 cd AHAD-WA-BOT
 npm start
 ```
