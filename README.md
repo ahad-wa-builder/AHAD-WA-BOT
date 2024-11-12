@@ -99,7 +99,7 @@ Thanks to all contributors! 🚀
 
 9. If You don't have a account in Mongenius. Create a account.
     <br>
-<a href='https://bot-hosting.net' target="_blank"><img alt='Bot-Hosting' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+<a href='https://bot-hosting.net' target="_blank"><img alt='Bot-Hosting' src='[https://bot-hosting.net/assets/img/bothosting2.png?color=black&style=for-the-badge&logo=bot' width="96.35" height="28"/></a></p>
 
 
 2. Now Deploy
