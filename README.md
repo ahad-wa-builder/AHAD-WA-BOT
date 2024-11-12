@@ -21,7 +21,7 @@
 <a href="https://github.com/ahad-wa-builder"><img title="Author" src="https://img.shields.io/badge/CREATOR-AHAD%20BRO-black.svg?style=for-the-badge&logo=github"></a>
 
 ### ℹ️ **About AHAD-V1**
-XLICON-V4 is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](https://github.com/ahad-wa-builder). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+AHAD-WA-BOT is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](https://github.com/ahad-wa-builder). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/AHAD-WA-BOT/count.svg" alt="AHAD MEHMOOD :: Visitor's Count" /></p>
 
@@ -42,7 +42,7 @@ XLICON-V4 is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](https:
   
 ####
 
-*AHAD-V1* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V15*
+*AHAD-WA-BOT* - A Advanced Multi Device whatsapp bot
 -------
 
 ***
