@@ -179,7 +179,7 @@ NOW Deploy👇
 
 ## `WA Support`
 . Just Click On WA Logo to Redirect My WA Nbr
-<a href="https://wa.me/+923404812097/text?=AHAD-WA-BOT-I-Need-Help"><img src="https://static.whatsapp.net/rsrc.php/v3/yR/r/y8-PTBaP90a.png" width="980" height="180" alt="Contact WA"/></a>
+<a href="https://api.whatsapp.com/send/?phone=%2B923404812097"><img src="https://static.whatsapp.net/rsrc.php/v3/yR/r/y8-PTBaP90a.png" width="980" height="180" alt="Contact WA"/></a>
 
 ## 🔒 `Reminder`
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
