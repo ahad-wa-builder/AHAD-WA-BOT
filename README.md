@@ -173,9 +173,12 @@ NOW Deploy👇
 ## 📛 `OWNER & Main Developer` 
 <a href="https://github.com/ahad-wa-builder"><img src="https://github.com/ahad-wa-builder.png" width="250" height="250" alt="Ahad Mehmood"/></a>
   
-**AHAD-V1** - By `ahadmehmood`
+**AHAD-WA-BOT** - By `Ahad Mehmood`
 <br>
 `Development , Maintainence , Bot Updates`
+
+## `WA Support`
+<a href="https://wa.me/+923404812097/text?*I-Need-Help/*"><img src="https://static.whatsapp.net/rsrc.php/v3/yR/r/y8-PTBaP90a.png" width="980" height="180" alt="Contact WA"/></a>
 
 ## 🔒 `Reminder`
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
