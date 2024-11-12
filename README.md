@@ -5,14 +5,14 @@
 <br>
    
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WELCOME+AHAD-WA-BOT;Multi+Device+WhatsApp+Bot;Developer+By+Ahad+Mehmood)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WELCOME+AHAD-WA-BOT;Multi+Device+WhatsApp+Bot;Developer+By+Ahad+Mehmood)
 <p align="center">
   
 ## 🌟 `Bot Intro and Features`
 <p align="center">  
   <a href="https://youtube.com">
     <img alt="Xlicon" height="600" width="600" src="https://i.pinimg.com/originals/fc/6e/fa/fc6efa9bb808c1c8b096d0ebc932d3c1.jpg">
-    <h1 align="center">XLICON-V4</h1>
+    <h1 align="center">AHAD WA BOT</h1>
   </a>
 </p>
 
