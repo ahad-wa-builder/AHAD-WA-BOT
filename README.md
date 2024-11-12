@@ -6,7 +6,7 @@
 <br>
    
 
-![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WELCOME+AHAD-WA-BOT;Multi+Device+WhatsApp+Bot;Developer+By+Ahad+Mehmood](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=321AF7&width=435&lines=WELCOME;Its+AHAD-WA-BOT;Multi-Device+WhatsApp+Bot;Developed+By%3A+AHAD+MEHMOOD))
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=321AF7&width=435&lines=WELCOME;Its+AHAD-WA-BOT;Multi-Device+WhatsApp+Bot;Developed+By%3A+AHAD+MEHMOOD)
 <p align="center">
   
 ## 🌟 `Bot Intro and Features`
