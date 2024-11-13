@@ -21,7 +21,7 @@
 ### <br> 🌟 `❖Bot Intro and Features❖`
 <p align="center">  
   <a href="https://youtube.com">
-    <img alt="Ahad" height="600" width="600" src="https://lh3.googleusercontent.com/3zpC7n00BVf9ad5mRlwwT8rMXVL7lmYaE2WRUfY0ac29Hb6c_VjRybeghZW9YNB0VUif9SsN_7_veSj-7eiqdtA=w1280">
+    <img alt="Ahad" height="600" width="600" src="https://ibb.co/7gv30LM">
     <h1 align="center">AHAD WA BOT</h1>
   </a>
 </p>
