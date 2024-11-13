@@ -378,6 +378,6 @@ npm start
 
 <div align="center">
 <h1>Ⓒ 2024</h1>
-</div>div>
+</div>
 
  <br><br>
