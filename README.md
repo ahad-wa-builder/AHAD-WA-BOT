@@ -375,9 +375,8 @@ npm start
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---------------
-<p
-(the-end)
-<p align="center">
 
+(&#9400;)
+<p align="center">
 
  <br><br>
