@@ -1,4 +1,3 @@
-<div style="background-color:#333; padding:20px; border-radius:10px; color:white;">
 -----------
 
  <h1 align="center"![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&background=1D14FF00&width=435&lines=Coming+Soon+now!) 
@@ -55,7 +54,11 @@ AHAD-WA-BOT is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](http
 <p align='center'>
 </p>
 
-----------
+-------------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------------
   
 #### <br> `❖AHAD-WA-BOT❖` - A Advanced Multi Device whatsapp bot
 -------
@@ -264,6 +267,11 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
  
 ```
 
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 # Install Manually 👇
 ## `Requirements`
@@ -373,10 +381,7 @@ npm start
 
 ---------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a> </h1>
-<p align="center">This is a GitHub README with a dark background.</p>
-</div>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---------------
 
 <div align="center">
