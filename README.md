@@ -271,6 +271,11 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+--------------------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 # Install Manually 👇
