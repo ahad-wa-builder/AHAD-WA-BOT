@@ -384,13 +384,14 @@ npm start
 - Don't Use This Script As Your Bot Base 
 ---
 
----------------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
----------------
-
 <div align="center">
 <h1>Ⓒ 2024</h1>
 </div>
+
+---------------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---------------
 
  <br><br>
