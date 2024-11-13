@@ -376,7 +376,8 @@ npm start
 
 ---------------
 
-DATE(YEAR(A2)+B2,MONTH(A2),DAY(A2)) 
-
+<div align="center">
+<h1>Ⓒ 2024</h1>
+</div>div>
 
  <br><br>
