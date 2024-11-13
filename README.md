@@ -1,9 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&background=1D14FF00&width=435&lines=Coming+Soon+now!) 
 <p align="center"> 
+
+----------
  
 # `Ahad-WA-BOT`
-<br>
-   
+
+----------   
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=Its%20AHAD-WA-BOT;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20AHAD%20MEHMOOD)
