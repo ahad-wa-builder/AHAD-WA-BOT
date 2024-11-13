@@ -26,10 +26,14 @@
 <p align="center">
 <a href="https://github.com/ahad-wa-builder"><img title="Author" src="https://img.shields.io/badge/CREATOR-AHAD%20BRO-black.svg?style=for-the-badge&logo=github"></a>
 
+----------
+
 ### ℹ️ **About AHAD-V1**
 AHAD-WA-BOT is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](https://github.com/ahad-wa-builder). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/AHAD-WA-BOT/count.svg" alt="AHAD MEHMOOD :: Visitor's Count" /></p>
+
+----------
 
 ### 📊 **Bot Statistics**
 <p align="center">
@@ -45,6 +49,7 @@ AHAD-WA-BOT is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](http
 <p align='center'>
 </p>
 
+----------
   
 ####
 
@@ -58,6 +63,7 @@ If you find AHAD-WA-BOT helpful, consider giving it a star ⭐ to show your appr
 
 Thanks to all contributors! 🚀
 
+----------
 
 ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -77,6 +83,11 @@ Thanks to all contributors! 🚀
 ## 🛠️Deploying Working Methods`
 
 `ALL Deploy Methods Is coming Soon! you can try discord bot-hosting and replit for bot deploy`
+
+----------
+----------
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+----------
 
 ## 🛠️ `Installation Methods`
 1. Fork the repo
