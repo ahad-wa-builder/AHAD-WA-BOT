@@ -100,9 +100,10 @@ Thanks to all contributors! 🚀
 ### <br> 🛠️ `❖Installation Methods❖`
 1. Fork the repo
     <br>
+    
 <a href='https://github.com/ahad-wa-builder/AHAD-WA-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-### <br> 🚀 `Deployments`
+### <br>    🚀 `❖Deployments❖`
 #### DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
@@ -117,7 +118,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### <br> DEPLOY TO REPLIT
+#### <br>    <br> DEPLOY TO REPLIT
 
 1. If You don't have an account in Replit. Create a account.
     <br>
@@ -135,7 +136,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-### <br> DEPLOY TO CODESPACE
+### <br>    DEPLOY TO CODESPACE
 
 3. If You don't have a account in Codespace. Create a account.
     <br>
@@ -149,7 +150,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### <br> DEPLOY TO OKTETO
+#### <br>    DEPLOY TO OKTETO
 
 5. If You don't have a account in Okteto. Create a account.
     <br>
@@ -163,7 +164,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-### <br> DEPLOY TO RAILWAY
+### <br>    DEPLOY TO RAILWAY
 
 7. If You don't have a account in Railway. Create a account.
     <br>
@@ -177,7 +178,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### <br> DEPLOY TO MONGENIUS
+#### <br>    DEPLOY TO MONGENIUS
 
 9. If You don't have a account in Mongenius. Create a account.
     <br>
@@ -191,7 +192,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### <br> DEPLOY TO COOLIFY
+#### <br>    DEPLOY TO COOLIFY
 
 11. If You don't have a account in Coolify. Create a account.
     <br>
@@ -205,7 +206,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### <br> DEPLOY TO RENDER
+#### <br>    DEPLOY TO RENDER
 
 13. If You don't have a account in Render. Create a account.
     <br>
@@ -221,21 +222,21 @@ Thanks to all contributors! 🚀
 
 NOW Deploy👇
 <br>
-### <br> DEPLOY IN KOYEB    
+### <br>    DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)
 
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-### <br> DEPLOY IN PANEL
+### <br>    DEPLOY IN PANEL
 <a href="https://bot-hosting.net"><img src="https://bot-hosting.net/assets/img/bothosting2.png" width="100" height="100" alt="Bot-Hosting"/></a>
 
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
 
-### <br> 📛 `OWNER & Main Developer` 
+### 📛 `OWNER & Main Developer` 
 <a href="https://github.com/ahad-wa-builder"><img src="https://github.com/ahad-wa-builder.png" width="250" height="250" alt="Ahad Mehmood"/></a>  <a href="https://github.com/opffhere99"><img src="https://github.com/opffhere99.png" width="250" height="250" alt="AHAD TECH"/></a>
 
 **`AHAD-WA-BOT`** - By `Ahad Mehmood`
