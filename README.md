@@ -19,11 +19,8 @@
 ----------
   
 ### <br> 🌟 `❖Bot Intro and Features❖`
-<p align="center">  
-  <a href="https://youtube.com">
-    <img alt="Ahad" height="600" width="600" src="https://ibb.co/7gv30LM">
-    <h1 align="center">AHAD WA BOT</h1>
-  </a>
+
+<a href="https://ibb.co/7gv30LM"><img src="https://i.ibb.co/f8M3TL6/A-New-Design-1-Made-with-Poster-My-Wall.png" alt="A-New-Design-1-Made-with-Poster-My-Wall" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>free pic upload</a><br />
 </p>
 
 ----------
@@ -36,7 +33,7 @@
 ### <br> ℹ️ `❖About AHAD-V1❖`
 AHAD-WA-BOT is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](https://github.com/ahad-wa-builder). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/AHAD-WA-BOT/count.svg" alt="AHAD MEHMOOD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/AHAD-WA-BOT/count.svg" alt="AHAD MEHMOOD" :: Visitor's Count" /></p>
 
 ----------
 
