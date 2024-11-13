@@ -5,7 +5,7 @@
 
 ----------
  
-# `❖Ahad-WA-BOT❖`
+### <br> `❖Ahad-WA-BOT❖`
 
 ----------   
 
@@ -18,7 +18,7 @@
 
 ----------
   
-## 🌟 `❖Bot Intro and Features❖`
+### <br> 🌟 `❖Bot Intro and Features❖`
 <p align="center">  
   <a href="https://youtube.com">
     <img alt="Xlicon" height="600" width="600" src="https://i.pinimg.com/originals/fc/6e/fa/fc6efa9bb808c1c8b096d0ebc932d3c1.jpg">
@@ -33,14 +33,14 @@
 
 ----------
 
-### ℹ️ **❖About AHAD-V1❖**
+### <br> ℹ️ `**❖About AHAD-V1❖**`
 AHAD-WA-BOT is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](https://github.com/ahad-wa-builder). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/AHAD-WA-BOT/count.svg" alt="AHAD MEHMOOD :: Visitor's Count" /></p>
 
 ----------
 
-### 📊 **❖Bot Statistics❖**
+### <br> 📊 `**❖Bot Statistics❖**`
 <p align="center">
 <a href="https://github.com/ahad-wa-builder/followers"><img title="Followers" src="https://img.shields.io/github/followers/ahad-wa-builder=red&style=flat-square"></a>
 <a href="https://github.com/ahad-wa-builder/AHAD-WA-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ahad-wa-builder/AHAD-WA-BOT?color=blue&style=flat-square"></a>
@@ -56,21 +56,19 @@ AHAD-WA-BOT is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](http
 
 ----------
   
-####
-
-*❖AHAD-WA-BOT❖* - A Advanced Multi Device whatsapp bot
+#### <br> *❖AHAD-WA-BOT❖* - A Advanced Multi Device whatsapp bot
 -------
 
 ***
 
-## ⭐ `❖Star This Repo❖`
+### <br> ⭐ `❖Star This Repo❖`
 If you find AHAD-WA-BOT helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
 ----------
 
-## `❖🚀 Bot Features❖`
+### <br> 🚀 `*❖Bot Features❖*`
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Full Button Bot                  | Click Button To Perform Operations                      | ✅           | 1.0        |
@@ -85,7 +83,7 @@ Thanks to all contributors! 🚀
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 1.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 1.0        |
 
-## ❖🛠️Deploying Working Methods❖`
+### <br> 🛠️ `*❖Deploying Working Methods❖*`
 
 `ALL Deploy Methods Is coming Soon! you can try discord bot-hosting and replit for bot deploy`
 
@@ -95,7 +93,7 @@ Thanks to all contributors! 🚀
 
 ----------
 
-## 🛠️ `❖Installation Methods❖`
+### <br> 🛠️ `*❖Installation Methods❖*`
 1. Fork the repo
     <br>
 <a href='https://github.com/ahad-wa-builder/AHAD-WA-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
