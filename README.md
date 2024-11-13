@@ -33,14 +33,14 @@
 
 ----------
 
-### <br> ℹ️ `**❖About AHAD-V1❖**`
+### <br> ℹ️ `❖About AHAD-V1❖`
 AHAD-WA-BOT is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](https://github.com/ahad-wa-builder). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/AHAD-WA-BOT/count.svg" alt="AHAD MEHMOOD :: Visitor's Count" /></p>
 
 ----------
 
-### <br> 📊 `**❖Bot Statistics❖**`
+### <br> 📊 `❖Bot Statistics❖`
 <p align="center">
 <a href="https://github.com/ahad-wa-builder/followers"><img title="Followers" src="https://img.shields.io/github/followers/ahad-wa-builder=red&style=flat-square"></a>
 <a href="https://github.com/ahad-wa-builder/AHAD-WA-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ahad-wa-builder/AHAD-WA-BOT?color=blue&style=flat-square"></a>
@@ -56,7 +56,7 @@ AHAD-WA-BOT is a Cool Multi-Device WhatsApp bot developed by [Ahad Mehmood](http
 
 ----------
   
-#### <br> *❖AHAD-WA-BOT❖* - A Advanced Multi Device whatsapp bot
+#### <br> `❖AHAD-WA-BOT❖` - A Advanced Multi Device whatsapp bot
 -------
 
 ***
@@ -68,7 +68,7 @@ Thanks to all contributors! 🚀
 
 ----------
 
-### <br> 🚀 `*❖Bot Features❖*`
+### <br> 🚀 `❖Bot Features❖`
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Full Button Bot                  | Click Button To Perform Operations                      | ✅           | 1.0        |
@@ -83,7 +83,7 @@ Thanks to all contributors! 🚀
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 1.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 1.0        |
 
-### <br> 🛠️ `*❖Deploying Working Methods❖*`
+### <br> 🛠️ `❖Deploying Working Methods❖`
 
 `ALL Deploy Methods Is coming Soon! you can try discord bot-hosting and replit for bot deploy`
 
@@ -93,12 +93,12 @@ Thanks to all contributors! 🚀
 
 ----------
 
-### <br> 🛠️ `*❖Installation Methods❖*`
+### <br> 🛠️ `❖Installation Methods❖`
 1. Fork the repo
     <br>
 <a href='https://github.com/ahad-wa-builder/AHAD-WA-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-## 🚀 `Deployments`
+### <br> 🚀 `Deployments`
 #### DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
@@ -113,7 +113,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### DEPLOY TO REPLIT
+#### <br> DEPLOY TO REPLIT
 
 1. If You don't have an account in Replit. Create a account.
     <br>
@@ -131,7 +131,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### DEPLOY TO CODESPACE
+### <br> DEPLOY TO CODESPACE
 
 3. If You don't have a account in Codespace. Create a account.
     <br>
@@ -145,7 +145,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### DEPLOY TO OKTETO
+#### <br> DEPLOY TO OKTETO
 
 5. If You don't have a account in Okteto. Create a account.
     <br>
@@ -159,7 +159,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### DEPLOY TO RAILWAY
+### <br> DEPLOY TO RAILWAY
 
 7. If You don't have a account in Railway. Create a account.
     <br>
@@ -173,7 +173,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### DEPLOY TO MONGENIUS
+#### <br> DEPLOY TO MONGENIUS
 
 9. If You don't have a account in Mongenius. Create a account.
     <br>
@@ -187,7 +187,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### DEPLOY TO COOLIFY
+#### <br> DEPLOY TO COOLIFY
 
 11. If You don't have a account in Coolify. Create a account.
     <br>
@@ -201,7 +201,7 @@ Thanks to all contributors! 🚀
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-#### DEPLOY TO RENDER
+#### <br> DEPLOY TO RENDER
 
 13. If You don't have a account in Render. Create a account.
     <br>
@@ -217,37 +217,37 @@ Thanks to all contributors! 🚀
 
 NOW Deploy👇
 <br>
-## DEPLOY IN KOYEB    
+### <br> DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)
 
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
-## DEPLOY IN PANEL
+### <br> DEPLOY IN PANEL
 <a href="https://bot-hosting.net"><img src="https://bot-hosting.net/assets/img/bothosting2.png" width="100" height="100" alt="Bot-Hosting"/></a>
 
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
 
-## 📛 `OWNER & Main Developer` 
+### <br> 📛 `OWNER & Main Developer` 
 <a href="https://github.com/ahad-wa-builder"><img src="https://github.com/ahad-wa-builder.png" width="250" height="250" alt="Ahad Mehmood"/></a>  <a href="https://github.com/opffhere99"><img src="https://github.com/opffhere99.png" width="250" height="250" alt="AHAD TECH"/></a>
 
-**AHAD-WA-BOT** - By `Ahad Mehmood`
+**`AHAD-WA-BOT`** - By `Ahad Mehmood`
 <br>
 `Development , Maintainence , Bot Updates`
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
-## `WA Support`
+### <br> `WA Support`
 . Just Click On WA Logo to Redirect My WA Nbr
 <a href="https://api.whatsapp.com/send/?phone=%2B923404812097"><img src="https://static.whatsapp.net/rsrc.php/v3/yR/r/y8-PTBaP90a.png" width="980" height="180" alt="Contact WA"/></a>
 
-## 🔒 `Reminder`
+### <br> 🔒 `Reminder`
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
-## `Pannel Supoort`
+### <br> `Pannel Supoort`
 ```bash
 1. Fork Repository
 2. If already forked then sync fork repository
@@ -278,6 +278,7 @@ git clone https://github.com/<your gitHub Username>/AHAD-WA-BOT.git
 cd AHAD-WA-BOT
 npm start
 ```
+-----------
 
 ## `For Ssh/Ubuntu/Linux`
 ```bash
@@ -295,6 +296,7 @@ cd AHAD-WA-BOT
 npm install
 npm start
 ```
+----------
 
 ## `For Termux`
 ```bash
@@ -303,7 +305,9 @@ cd /sdcard
 cd bot folder name
 yarn install
 npm start
+
 ```
+-------------
 
 ## `For 24/7 Activation Pm2 (Termux)`
 ```bash
@@ -314,7 +318,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```bash
 npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 ```
-
+--------------
 
 ## `For Github Codespaces`
 ```bash
@@ -332,6 +336,7 @@ cd AHAD-WA-BOT
 npm install
 npm start
 ```
+--------------
 
 ## `For VPS`
 ```bash
@@ -345,6 +350,7 @@ git clone https://github.com/<your gitHub Username>/AHAD-WA-BOT
 cd AHAD-WA-BOT
 npm start
 ```
+-------------
 
 ## `Reminder`
    
@@ -353,6 +359,7 @@ npm start
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
 
+--------------
 
 ## `NOTICE`
    
@@ -362,5 +369,11 @@ npm start
 - Have A Good Day Ahead
 - Don't Use This Script As Your Bot Base 
 ---
+
+---------------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---------------
 
  <br><br>
