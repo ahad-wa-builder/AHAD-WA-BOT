@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>Science 2024</h1>
+</div>
+
+
 -----------
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&background=1D14FF00&width=435&lines=Coming+Soon+now!) 
