@@ -1,11 +1,7 @@
-<div align="center">
-  <h1>Science 2024</h1>
-</div>
-
-
+<div style="background-color:#333; padding:20px; border-radius:10px; color:white;">
 -----------
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&background=1D14FF00&width=435&lines=Coming+Soon+now!) 
+ <h1 align="center"![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&background=1D14FF00&width=435&lines=Coming+Soon+now!) 
 <p align="center"> 
 
 ----------
@@ -377,7 +373,9 @@ npm start
 
 ---------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a> </h1>
+<p align="center">This is a GitHub README with a dark background.</p>
+</div>
 
 ---------------
 
