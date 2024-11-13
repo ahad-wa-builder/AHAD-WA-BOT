@@ -377,6 +377,7 @@ npm start
 ---------------
 
 <span>&#x24b8;</span>
+<p align="center"> 
 
 
  <br><br>
