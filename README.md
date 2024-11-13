@@ -83,9 +83,10 @@ Thanks to all contributors! 🚀
 #### DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
-   [![Create Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
 
-2. Now Deploy
+   [![Create Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/Create Heroku?template=new)
+
+3. Now Deploy
     <br>
 <a href='https://dashbord.heroku.com/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
