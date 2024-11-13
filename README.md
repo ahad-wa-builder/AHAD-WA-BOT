@@ -84,7 +84,7 @@ Thanks to all contributors! 🚀
 
 1. If You don't have a account in Heroku. Create a account.
 
-   [![Create Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/Create Heroku?template=new)
+   [![Create Heroku](https://www.herokucdn.com/deploy/button.svg)](https://signup.heroku.com/?template=new)
 
 3. Now Deploy
     <br>
