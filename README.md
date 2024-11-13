@@ -86,11 +86,13 @@ Thanks to all contributors! 🚀
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-
 3. Now Deploy
     <br>
 <a href='https://dashbord.heroku.com/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
 
 #### DEPLOY TO REPLIT
 
@@ -99,9 +101,15 @@ Thanks to all contributors! 🚀
 <a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+
 2. Now Deploy
     <br>
     <a href='https://repl.it/github/ahad-wa-builder/AHAD-WA-BOT' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
 #### DEPLOY TO CODESPACE
@@ -114,6 +122,10 @@ Thanks to all contributors! 🚀
     <br>
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+
 #### DEPLOY TO OKTETO
 
 5. If You don't have a account in Okteto. Create a account.
@@ -123,6 +135,10 @@ Thanks to all contributors! 🚀
 6. Now Deploy
     <br>
 <a href='https://cloud.okteto.com/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
+
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
 
 #### DEPLOY TO RAILWAY
 
@@ -134,6 +150,10 @@ Thanks to all contributors! 🚀
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
 
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+
 #### DEPLOY TO MONGENIUS
 
 9. If You don't have a account in Mongenius. Create a account.
@@ -143,6 +163,10 @@ Thanks to all contributors! 🚀
 10. Now Deploy
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
 
 #### DEPLOY TO COOLIFY
 
@@ -154,6 +178,10 @@ Thanks to all contributors! 🚀
     <br>
 <a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
 
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+
 #### DEPLOY TO RENDER
 
 13. If You don't have a account in Render. Create a account.
@@ -164,20 +192,34 @@ Thanks to all contributors! 🚀
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+
 NOW Deploy👇
 <br>
 ## DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)
 
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+
 ## DEPLOY IN PANEL
 <a href="https://bot-hosting.net"><img src="https://bot-hosting.net/assets/img/bothosting2.png" width="100" height="100" alt="Bot-Hosting"/></a>
 
+
+`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
+
+
 ## 📛 `OWNER & Main Developer` 
 <a href="https://github.com/ahad-wa-builder"><img src="https://github.com/ahad-wa-builder.png" width="250" height="250" alt="Ahad Mehmood"/></a>  <a href="https://github.com/opffhere99"><img src="https://github.com/opffhere99.png" width="250" height="250" alt="AHAD TECH"/></a>
-  
+
 **AHAD-WA-BOT** - By `Ahad Mehmood`
 <br>
 `Development , Maintainence , Bot Updates`
+
+`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
 ## `WA Support`
 . Just Click On WA Logo to Redirect My WA Nbr
