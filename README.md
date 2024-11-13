@@ -171,7 +171,7 @@ NOW Deploy👇
 <a href="https://bot-hosting.net"><img src="https://bot-hosting.net/assets/img/bothosting2.png" width="250" height="250" alt="Bot-Hosting"/></a>
 
 ## 📛 `OWNER & Main Developer` 
-<a href="https://github.com/ahad-wa-builder"><img src="https://github.com/ahad-wa-builder.png" width="250" height="250" alt="Ahad Mehmood"/></a>
+<a href="https://github.com/ahad-wa-builder"><img src="https://github.com/ahad-wa-builder.png" width="250" height="250" alt="Ahad Mehmood"/></a>  <a href="https://github.com/opffhere99"><img src="https://github.com/opffhere99.png" width="250" height="250" alt="AHAD TECH"/></a>
   
 **AHAD-WA-BOT** - By `Ahad Mehmood`
 <br>
