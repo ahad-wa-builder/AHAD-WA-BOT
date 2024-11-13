@@ -376,8 +376,7 @@ npm start
 
 ---------------
 
-<span>&#x24b8;</span>
-<p align="center"> 
+DATE(YEAR(A2)+B2,MONTH(A2),DAY(A2)) 
 
 
  <br><br>
