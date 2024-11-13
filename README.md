@@ -168,7 +168,7 @@ NOW Deploy👇
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)
 
 ## DEPLOY IN PANEL
-<a href="https://bot-hosting.net"><img src="https://bot-hosting.net/assets/img/bothosting2.png" width="250" height="250" alt="Bot-Hosting"/></a>
+<a href="https://bot-hosting.net"><img src="https://bot-hosting.net/assets/img/bothosting2.png" width="150" height="150" alt="Bot-Hosting"/></a>
 
 ## 📛 `OWNER & Main Developer` 
 <a href="https://github.com/ahad-wa-builder"><img src="https://github.com/ahad-wa-builder.png" width="250" height="250" alt="Ahad Mehmood"/></a>  <a href="https://github.com/opffhere99"><img src="https://github.com/opffhere99.png" width="250" height="250" alt="AHAD TECH"/></a>
