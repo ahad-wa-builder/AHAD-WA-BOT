@@ -83,8 +83,8 @@ Thanks to all contributors! 🚀
 #### DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
-
-   [![Create Heroku](https://www.herokucdn.com/images/og.png)](https://signup.heroku.com/?template=new)
+    <br>
+<a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 3. Now Deploy
     <br>
