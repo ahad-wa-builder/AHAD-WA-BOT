@@ -21,7 +21,7 @@
 ### <br> 🌟 `❖Bot Intro and Features❖`
 
 <p align="center">  
-<a href="https://ibb.co/7gv30LM"><img src="https://i.ibb.co/f8M3TL6/A-New-Design-1-Made-with-Poster-My-Wall.png" alt="A-New-Design-1-Made-with-Poster-My-Wall" border="0"></a><br />
+<a href="https://whatsapp.com/channel/0029VarTXw32ZjClnmsaMV1b"><img src="https://i.ibb.co/f8M3TL6/A-New-Design-1-Made-with-Poster-My-Wall.png" alt="A-New-Design-1-Made-with-Poster-My-Wall" border="0"></a><br />
     <h1 align="center">AHAD WA BOT</h1>
   </a>
 </p>
