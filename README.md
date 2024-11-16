@@ -104,9 +104,13 @@ Thanks to all contributors! 🚀
 <a href='https://github.com/ahad-wa-builder/AHAD-WA-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ### <br>    🚀 `❖Deployments❖`
-#### DEPLOY TO HEROKU 
 
+#### DEPLOY TO HEROKU 
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
 1. If You don't have a account in Heroku. Create a account.
+ </details>
+
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
