@@ -122,118 +122,132 @@ Thanks to all contributors! 🚀
 
 #### <br>    <br> DEPLOY TO REPLIT
 
+<details>
+<summary>CLICK FOR MORE</summary>
 1. If You don't have an account in Replit. Create a account.
     <br>
 <a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
-
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-
-
 2. Now Deploy
     <br>
     <a href='https://repl.it/github/ahad-wa-builder/AHAD-WA-BOT' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
+<details>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
 ### <br>    DEPLOY TO CODESPACE
 
-3. If You don't have a account in Codespace. Create a account.
+<details>
+<summary>CLICK FOR MORE</summary>
+ 3. If You don't have a account in Codespace. Create a account.
     <br>
 <a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
 4. Now Deploy
     <br>
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
-
+<details>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
 #### <br>    DEPLOY TO OKTETO
 
-5. If You don't have a account in Okteto. Create a account.
+<details>
+<summary>CLICK FOR MORE</summary>
+ 5. If You don't have a account in Okteto. Create a account.
     <br>
 <a href='https://www.okteto.com/pricing/?plan=SaaS' target="_blank"><img alt='Okteto' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
 
 6. Now Deploy
     <br>
 <a href='https://cloud.okteto.com/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
-
+<details>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
 ### <br>    DEPLOY TO RAILWAY
 
-7. If You don't have a account in Railway. Create a account.
+
+<details>
+<summary>CLICK FOR MORE</summary>
+ 7. If You don't have a account in Railway. Create a account.
     <br>
 <a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
 
 8. Now Deploy
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
-
+<details>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
 #### <br>    DEPLOY TO MONGENIUS
 
-9. If You don't have a account in Mongenius. Create a account.
+<details>
+<summary>CLICK FOR MORE</summary>
+ 9. If You don't have a account in Mongenius. Create a account.
     <br>
 <a href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
 10. Now Deploy
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
-
+<details>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
 #### <br>    DEPLOY TO COOLIFY
 
-11. If You don't have a account in Coolify. Create a account.
+<details>
+<summary>CLICK FOR MORE</summary>
+ 11. If You don't have a account in Coolify. Create a account.
     <br>
 <a href='https://app.coolify.io/register' target="_blank"><img alt='Coolify' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
 
 12. Now Deploy
     <br>
 <a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
-
+<details>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
 #### <br>    DEPLOY TO RENDER
 
-13. If You don't have a account in Render. Create a account.
+<details>
+<summary>CLICK FOR MORE</summary>
+ 13. If You don't have a account in Render. Create a account.
     <br>
 <a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 14. Now Deploy
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
+<details>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
+### <br>    DEPLOY IN KOYEB
 
-NOW Deploy👇
-<br>
-### <br>    DEPLOY IN KOYEB    
-[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)
-
+<details>
+<summary>CLICK FOR MORE</summary>
+ [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)
+<details>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 
 ### <br>    DEPLOY IN PANEL
-<a href="https://bot-hosting.net"><img src="https://bot-hosting.net/assets/img/bothosting2.png" width="100" height="100" alt="Bot-Hosting"/></a>
 
+<details>
+<summary>CLICK FOR MORE</summary>
+ <a href="https://bot-hosting.net"><img src="https://bot-hosting.net/assets/img/bothosting2.png" width="100" height="100" alt="Bot-Hosting"/></a>
+<details>
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
